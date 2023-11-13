@@ -136,7 +136,7 @@ const NavBar = () => {
         </nav>
       </div>
 
-      <div className="absolute left-[1%] top-2 translate-x-[20%]">
+      <div className="absolute left-[30%] top-3 translate-x-[50%]">
         <Logo />
       </div>
 

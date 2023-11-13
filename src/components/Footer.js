@@ -1,7 +1,6 @@
 import React from "react";
 import Layout from "./Layout";
 import Link from "next/link";
-import HireMe from "./HireMe";
 import { GithubIcon, LinkedInIcon, TwitterIcon } from "./Icons";
 import { motion } from "framer-motion";
 
@@ -45,7 +44,6 @@ const Footer = () => {
           </motion.a>
         </nav>
       </Layout>
-      <HireMe />
     </footer>
   );
 };
